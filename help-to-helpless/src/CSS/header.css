@@ -1,0 +1,35 @@
+
+.containerr{
+    border-bottom: solid black 1px;
+    box-shadow: 10px 5px 10px 1px lightblue;
+    background-color:rgb(248, 231, 210);
+}
+.logo_section{
+    padding: 2% 2% 1%;
+    width: 10%;
+}
+.logo{
+    width: 80px;
+
+}
+.page_section{
+    margin-left: 20%;
+    position: absolute;
+    top: 8%;
+}
+.page_inner_section{
+    display: flex;
+    flex-direction: row;
+    gap: 50%;
+    /* text-align: center; */
+}
+.page_inner_section>li{
+    list-style: none;
+}
+.stylee{
+    list-style: none;
+}
+.dec{
+    text-decoration: none;
+    font-weight: bold;
+}
