@@ -1,0 +1,149 @@
+.font1{
+    font-family: 'Sevillana', cursive; 
+  }
+.clr1{
+    color: rgb(252, 154, 34);
+}
+.makebold{
+    font-weight: bold;
+}
+.font_size{
+    font-size: 30px;
+}
+.text_transform{
+    text-decoration: none;
+}
+.formdata{
+    padding: 0 5%;
+}
+.heading{
+    text-align: center;
+    padding: 8% 12%; 
+}
+.form{
+    padding: 0 12%;
+}
+.donation_container{
+    display: flex;
+    flex-direction: row;
+}
+.donation_grid1{
+    background-color: aquamarine;
+    background-size: cover;
+    /* border: 1px solid black; */
+    height: 100vh;
+    width: 100%;
+}
+.donation_grid2{
+    background-color: rgb(0, 0, 87);
+    background-size: cover;
+    /* border: 1px solid black; */
+    height: 100vh;
+    width: 100%;
+}
+.inner_box{
+    position: relative;
+    margin-top: 12%;
+    margin-left: 283px;
+    background-color:white;
+    background-size: cover;
+    /* border: 1px solid black; */
+    border-top-left-radius: 10%;
+    height: 70vh;
+    width: 400px;
+
+}
+.inner_box_volunteer{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 0.5px;
+    background-color:rgb(188, 216, 231) ;
+    border-bottom-right-radius: 10%;
+    background-size: cover;
+    /* border: 1px solid black; */
+    height: 70vh;
+    width: 400px;
+}
+.login{
+    margin-top: -3%;
+    width: 90%;
+}
+.login_but{
+    text-align: center;
+    padding:15% 0;
+}
+@media (max-width: 800px) {
+    .font1{
+        font-family: 'Sevillana', cursive; 
+      }
+    .clr1{
+        color: rgb(252, 154, 34);
+    }
+    .makebold{
+        font-weight: bold;
+    }
+    .font_size{
+        font-size: 15px;
+    }
+    .text_transform{
+        text-decoration: none;
+    }
+    .formdata{
+        padding: 0 5%;
+    }
+    .heading{
+        text-align: center;
+        padding: 8% 12%; 
+    }
+    .form{
+        padding: 0 12%;
+    }
+    .donation_container{
+        flex-direction: column;
+    }
+    .donation_grid1{
+        background-color: aquamarine;
+        background-size: cover;
+        /* border: 1px solid black; */
+        height: 100%;
+        width: 100%;
+    }
+    .donation_grid2{
+        background-color: rgb(0, 0, 87);
+        background-size: cover;
+        /* border: 1px solid black; */
+        height:100%;
+        width: 100%;
+    }
+    .inner_box{
+        position: absolute;
+        margin-top: 22%;
+        /* margin-left: 283px; */
+        background-color:white;
+        background-size: cover;
+        /* border: 1px solid black; */
+        border-top-left-radius: 10%;
+        height: 100%;
+        width: 400px;
+    
+    }
+    .inner_box_volunteer{
+        position: absolute;
+        margin-top: 12%;
+        margin-left: 0.5px;
+        background-color:rgb(188, 216, 231) ;
+        border-bottom-right-radius: 10%;
+        background-size: cover;
+        /* border: 1px solid black; */
+        height: 70vh;
+        width: 400px;
+    }
+    .login{
+        margin-top: -3%;
+        width: 50%;
+    }
+    .login_but{
+        text-align: center;
+        padding:15% 0;
+    }
+}

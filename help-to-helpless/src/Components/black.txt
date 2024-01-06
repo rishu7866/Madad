@@ -1,0 +1,20 @@
+@media screen and (max-width:1080px){
+
+}
+@media (max-width:998px){
+    
+}
+@media (max-width:798px){
+    
+}
+@media (max-width:520px){
+    
+}
+@media screen and (max-width:540px){
+
+}
+@media screen and (max-width:420px){
+
+}
+@media (max-width:290px){
+}

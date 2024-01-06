@@ -1,0 +1,208 @@
+.font1{
+    font-family: 'Sevillana', cursive;  
+  }
+  .font2{
+      font-family: 'Roboto', sans-serif;  
+    }
+.font3{
+    font-family: 'Josefin Sans', sans-serif;
+    }
+.About_container{
+    padding-top: 10%;
+}
+.heading_section>h1{
+    text-align: center;
+    align-items: center;
+    color: rgb(236, 147, 37);
+}
+.heading_section>p{
+    text-align: center;
+    align-items: center;
+font-weight: bold;
+}
+.madad{
+    font-weight: bold;
+    color: rgb(236, 147, 37);
+    letter-spacing: 3px;
+}
+.inner_container1{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding:5% 10%;
+}
+.inner_container2{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding:5% 10%;
+}
+.inner_container3{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding:5% 10%;
+}
+.about_image_section>img{
+    width: 400px;
+}
+.leftt{
+    margin-left: 20%;
+}
+.double_line{
+    text-decoration:overline underline double rgb(236, 147, 37);
+}
+.paragraph{
+    margin-top: 10%;
+    width: 620px;
+    word-spacing: 8px;
+    line-height: 2.6;
+    font-weight: bold;
+    color: red;
+}
+/* .pot {
+    /* bottom: 15%; */
+    /* position: relative; */
+    /* animation: mymove 0.5s ease-in; */
+  /* } */
+  
+  /* @keyframes mymove { */
+    /* from {top: -60%;} */
+    /* to {bottom: 60px;} */
+  /* }  */
+  @media screen and (max-width:1080px){
+    .about_image_section>img{
+        width: 100px;
+    } 
+    .paragraph{
+        margin-top: 10%;
+        width: 100%;
+        font-size: 15px;
+        word-spacing: 8px;
+        line-height: 2.6;
+        font-weight: bold;
+        color: red;
+    } 
+    .double_line{
+        text-decoration:overline underline double rgb(236, 147, 37);
+        font-size: 22px;
+    }
+    .left_aaproach{
+        margin-left: 10%;
+    }
+
+  }
+  @media (max-width:998px){
+    .paragraph{
+        margin-top: 10%;
+        width: 100%;
+        font-size: 15px;
+        word-spacing: 8px;
+        line-height: 2.6;
+        font-weight: bold;
+        color: red;
+    } 
+    .double_line{
+        text-decoration:overline underline double rgb(236, 147, 37);
+        font-size: 22px;
+    }
+    .left_aaproach{
+        margin-left: 10%;
+    }
+
+  }
+  @media (max-width:798px){
+    .paragraph{
+        margin-top: 10%;
+        width: 100%;
+        font-size: 15px;
+        word-spacing: 8px;
+        line-height: 2.6;
+        font-weight: bold;
+        color: red;
+    } 
+    .double_line{
+        text-decoration:overline underline double rgb(236, 147, 37);
+        font-size: 22px;
+    }
+    .left_aaproach{
+        margin-left: 10%;
+    }
+
+  }
+  @media (max-width:520px){
+      
+  }
+  @media screen and (max-width:540px){
+    .about_image_section>img{
+        width: 100px;
+    } 
+    .paragraph{
+        margin-top: 10%;
+        width: 100%;
+        font-size: 10px;
+        word-spacing: 8px;
+        line-height: 2.6;
+        font-weight: bold;
+        color: red;
+    } 
+    .left_aaproach{
+        margin-left: 10%;
+    }
+    .double_line{
+        text-decoration:overline underline double rgb(236, 147, 37);
+        font-size: 22px;
+    }
+  }
+  @media screen and (max-width:420px){
+    .inner_container1{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding:5% 10%;
+        /* width: 100%; */
+    }
+    .about_image_section>img{
+        width: 100px;
+    }   
+    .paragraph{
+        margin-top: 10%;
+        width: 100%;
+        font-size: 10px;
+        word-spacing: 8px;
+        line-height: 2.6;
+        font-weight: bold;
+        color: red;
+    } 
+    .left_aaproach{
+        margin-left: 10%;
+    }
+    .inner_container2{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding:5% 10%;
+    }
+    .inner_container3{
+        display: grid;
+        grid-template-columns: auto auto;
+        padding:5% 10%;
+    }
+  }
+  @media (max-width:290px){
+    .about_image_section>img{
+        width: 100px;
+    } 
+    .paragraph{
+        margin-top: 10%;
+        width: 120%;
+        font-size:10px;
+        /* word-spacing: 8px; */
+        /* line-height: 2.6; */
+        font-weight: bold;
+        color: red;
+    } 
+    .double_line{
+        text-decoration:overline underline double rgb(236, 147, 37);
+        font-size: 22px;
+    }
+    .left_aaproach{
+        margin-left: 10%;
+    }
+  }
+  
