@@ -1,8 +1,11 @@
-[
-    "donation":[
-        {
-            "id":1,
-            "name":"rishu"
-        }
-    ]
-]
+{
+  "donation": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "user": {
+    "name": "typicode"
+  }
+}
