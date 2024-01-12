@@ -7,11 +7,6 @@
       { "id": 2, "body": "some comment", "postId": 1 }
     ],
     "donation": [
-        {
-            "id":1,
-            "fname":"Rishu",
-            "email":"rishu.rj6767@gmail.com",
-            "message":"hatfc"
-        }
+        { "id": 1, "body": "some comment", "postId": 1 },
     ]
 ]
