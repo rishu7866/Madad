@@ -11,7 +11,7 @@ const VolunteerLogin = () => {
         <div className="donation_grid1">
           <div className="inner_box">
             <div>
-              <h1 className="font1 clr1 font_size heading">Welcome Warriors</h1>
+              <h1 className="font1 clr12 font_size heading">Welcome Warriors</h1>
             </div>
             <div className="formdata">
               <form action="#" method="post">

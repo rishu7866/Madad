@@ -9,7 +9,8 @@ import {
 import { FaLinkedinIn } from "react-icons/fa";
 const Contact = () => {
   return (
-    <div className="contact-container">
+    <div className="contactouter">
+       <div className="contact-container">
       <h2>Contact Us</h2>
       <form className="contact-form">
         <div className="form-group">
@@ -80,6 +81,7 @@ const Contact = () => {
       </ul> 
       </div>
       
+    </div>
     </div>
   );
 };

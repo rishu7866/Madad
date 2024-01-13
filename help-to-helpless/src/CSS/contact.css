@@ -1,8 +1,17 @@
+.contactouter{
+  background-image: linear-gradient(90deg, brown, violet);
+  height: 150vh;
+  padding-top: 10%;
+}
 .contact-container {
+  background-image: url('../PICS/backgroundcontact.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
     padding-top: 10%;
+    color: white;
   }
   
   .contact-form {
@@ -96,4 +105,11 @@
   
   .icon-colour {
     color: #700c86 !important;
+  }
+  @media (max-width:290px){
+    .contactouter{
+      background-image: linear-gradient(90deg, brown, violet);
+      height: 150vh;
+      padding-top: 18%;
+    }
   }

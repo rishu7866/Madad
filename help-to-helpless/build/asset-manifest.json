@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a20bda5.css",
+    "main.js": "/static/js/main.00e34bbf.js",
+    "static/js/787.206eb69c.chunk.js": "/static/js/787.206eb69c.chunk.js",
+    "static/media/together.jpg": "/static/media/together.f2b5861f967a4f92778f.jpg",
+    "static/media/need.png": "/static/media/need.9ec72454772cd405d6f1.png",
+    "static/media/good.png": "/static/media/good.7b241657bd3e0f25b483.png",
+    "static/media/login.png": "/static/media/login.eb2d7ab4eb4faa32d837.png",
+    "static/media/match.png": "/static/media/match.49a985fef54e87c1932b.png",
+    "static/media/approach.jpg": "/static/media/approach.cfa76dc0e937d329407f.jpg",
+    "static/media/volunteer_img.png": "/static/media/volunteer_img.3fdff4003d13a78b31b6.png",
+    "static/media/processs.jpg": "/static/media/processs.02af1b4ff7a543d2a8ae.jpg",
+    "static/media/vision.jpg": "/static/media/vision.0ab13fc768e6e8ea3d07.jpg",
+    "static/media/gooddonation.jpg": "/static/media/gooddonation.c15c46fde541fe80cdaf.jpg",
+    "static/media/moneydonation.jpg": "/static/media/moneydonation.e668135c6f4109aba1c7.jpg",
+    "static/media/volunteer.jpg": "/static/media/volunteer.8c6c777d0b87837b320f.jpg",
+    "static/media/food.jpg": "/static/media/food.553d748064b7a4a84a00.jpg",
+    "static/media/mobdonation.jpg": "/static/media/mobdonation.5ebf48e8b16b77d239ef.jpg",
+    "static/media/money.jpg": "/static/media/money.5631171e8f42ebcb9f84.jpg",
+    "static/media/Donate.jpg": "/static/media/Donate.28d5d6380f25c3ae8345.jpg",
+    "static/media/backgroundcontact.jpg": "/static/media/backgroundcontact.27177aaae1b4bce364e2.jpg",
+    "static/media/backgroundfordonation.jpg": "/static/media/backgroundfordonation.43f988d18ad8a54e532e.jpg",
+    "index.html": "/index.html",
+    "main.8a20bda5.css.map": "/static/css/main.8a20bda5.css.map",
+    "main.00e34bbf.js.map": "/static/js/main.00e34bbf.js.map",
+    "787.206eb69c.chunk.js.map": "/static/js/787.206eb69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a20bda5.css",
+    "static/js/main.00e34bbf.js"
+  ]
+}

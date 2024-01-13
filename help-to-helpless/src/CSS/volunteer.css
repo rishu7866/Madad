@@ -1,6 +1,12 @@
 .outer-container{
   padding:10% 5%;
 }
+.fontvol{
+  font-family: "Roboto", 'Times New Roman', Times, serif;
+}
+.decor{
+  text-decoration: none;
+}
 .label-font{
   font-size: 20px;
   text-align: start;

@@ -1,8 +1,19 @@
-.contact-container {
+.donouter{
+  background-color: rgb(134, 131, 131);
+  height: 100vh;
+  padding-top: 10%;
+}
+.contactcontainer {
+  position: relative;
+  top: -40px;
+  background-image: url('../PICS/backgroundfordonation.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    padding-top: 10%;
+    padding-top: 5%;
+    color: white;
   }
   
   .contact-form {
@@ -41,4 +52,18 @@
   
   .donationbtn:hover {
     background-color:rgb(247, 149, 31);
+  }
+  @media (max-width:991px){
+    .donouter{
+      background-color: rgb(134, 131, 131);
+      /* height: 100vh; */
+      padding-top: 20%;
+    }
+  }
+  @media screen and (max-width:420px){
+    .donouter{
+      background-color: rgb(134, 131, 131);
+      height: 100vh;
+      padding-top: 30%;
+    }
   }

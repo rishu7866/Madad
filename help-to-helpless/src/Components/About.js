@@ -3,7 +3,7 @@ import '../CSS/about.css'
 import Approach from '../PICS/approach.jpg'
 import vision from '../PICS/vision.jpg'
 import process from '../PICS/processs.jpg'
-import Login from './Login'
+// import Login from './Login'
 const About = () => {
   return (
     <>
@@ -11,7 +11,7 @@ const About = () => {
         <div>
           <div className='heading_section'>
             <h1 className='font1'>About Us</h1>
-            <p className='font1'>join the Mission of <span className='madad font2'>MADAD</span></p>
+            <p className='font1'>#join the mission of <span className='madad font2'>MADAD</span></p>
           </div>
           <div>
             <div className='inner_container1'>

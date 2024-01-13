@@ -1,5 +1,6 @@
 .font1{
-    font-family: 'Sevillana', cursive;  
+    font-family: "Roboto", 'Times New Roman', Times, serif;
+    color: blue;
   }
   .font2{
       font-family: 'Roboto', sans-serif;  
@@ -152,6 +153,9 @@ font-weight: bold;
     }
   }
   @media screen and (max-width:420px){
+    .leftt{
+        margin-left: 10%;
+    }
     .inner_container1{
         display: grid;
         grid-template-columns: auto auto;

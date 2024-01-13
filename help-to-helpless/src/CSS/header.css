@@ -1,12 +1,37 @@
 .headerfont{
-    font-family: 'Sevillana', cursive;
-    font-weight: bold;
+    font-family: "Roboto", 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: large;
 }
 .headercolor{
-    color: rgb(245, 142, 16);
+    /* color: rgb(245, 142, 16); */
+    color: white;
+    text-shadow: 1px 2px 0.1px cadetblue;
 }
 .boxshs{
     border-bottom: solid transparent 1px;
     box-shadow: 10px 5px 10px 1px lightblue;
-    background-color:rgb(248, 231, 210);
+    background-color:aqua;
+}
+.tocenter{
+    align-items: center;
+}
+
+@media (max-width:991px){
+    .headerfont{
+        font-family: "Roboto", 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-size: large;
+        text-transform: uppercase;
+    }
+    .headercolor{
+        /* color: rgb(245, 142, 16); */
+        color: black;
+        font-weight: bold;
+        text-shadow: 1px 2px 10px red;
+    }
+    .teeen{
+        /* color: white; */
+        background-color:gainsboro;
+        }
 }
