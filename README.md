@@ -1,11 +1,9 @@
 <h2 align="center">
   Portfolio Website - Frontend <br/>
-  Portfolio Website - Frontend<br/>
->>>>>>> 2f63069a8edfbabbedf2c259eb673e851fac8acf
-  <a href="https://tapmadad.netlify.app/" target="_blank">Madad - Donation Website</a>
+<a href="https://tapmadad.netlify.app/" target="_blank">Madad - Donation Website</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./help-to-helpless/src/PICS/M.png" />
+  <img alt="Demo" src="./src/PICS/M.png"/>
 </div>
 
 <br/>
@@ -76,9 +74,5 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+<a href="https://www.buymeacoffee.com/rishabhkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
-<<<<<<< HEAD
-<a href="https://www.buymeacoffee.com/rishabhkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-=======
-<a href="https://www.buymeacoffee.com/rishabhkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
->>>>>>> 2f63069a8edfbabbedf2c259eb673e851fac8acf
