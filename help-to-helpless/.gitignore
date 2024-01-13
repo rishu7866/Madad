@@ -3,4 +3,4 @@ db.json
 conn.js
 config.env  
 build
-./src/Server/config.env
+../src/Server/config.env
