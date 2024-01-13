@@ -1,5 +1,5 @@
 node_modules
 db.json
-conn,js
-./config.env  
+conn.js
+config.env  
 build
