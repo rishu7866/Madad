@@ -1,2 +1,5 @@
-config.env
-node_modules  
+node_modules
+db.json
+conn,js
+./config.env  
+build
