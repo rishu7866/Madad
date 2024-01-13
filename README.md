@@ -1,7 +1,5 @@
 <h2 align="center">
-<<<<<<< HEAD
   Portfolio Website - Frontend <br/>
-=======
   Portfolio Website - Frontend<br/>
 >>>>>>> 2f63069a8edfbabbedf2c259eb673e851fac8acf
   <a href="https://tapmadad.netlify.app/" target="_blank">Madad - Donation Website</a>
