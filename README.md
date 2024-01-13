@@ -1,5 +1,9 @@
 <h2 align="center">
+<<<<<<< HEAD
   Portfolio Website - Frontend <br/>
+=======
+  Portfolio Website - Frontend<br/>
+>>>>>>> 2f63069a8edfbabbedf2c259eb673e851fac8acf
   <a href="https://tapmadad.netlify.app/" target="_blank">Madad - Donation Website</a>
 </h2>
 <div align="center">
@@ -75,4 +79,8 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
+<<<<<<< HEAD
 <a href="https://www.buymeacoffee.com/rishabhkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+<a href="https://www.buymeacoffee.com/rishabhkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+>>>>>>> 2f63069a8edfbabbedf2c259eb673e851fac8acf
