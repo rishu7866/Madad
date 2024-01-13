@@ -3,7 +3,7 @@
 <a href="https://tapmadad.netlify.app/" target="_blank">Madad - Donation Website</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./src/PICS/M.png"/>
+  <img alt="Demo" src="../help-to-helpless/src/PICS/M.png"/>
 </div>
 
 <br/>
